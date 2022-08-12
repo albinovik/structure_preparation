@@ -1,0 +1,1762 @@
+data_2-TOPOS_BALFAV01_C10H8Mo2N2O6
+_database_code_CSD                  BALFAV01
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C10 H8 Mo2 N2 O6'
+_chemical_name_systematic
+;
+catena-[(\m~2~-4,4'-Bipyridyl)-tetrakis(\m~2~-oxo)-dioxo-di-molybdenu
+m]. 
+;
+_chemical_formula_sum               'C5 H4 Mo1 N1 O3'
+_citation_journal_abbrev            POLYHEDRON
+_citation_year                      2002
+_citation_journal_volume            21
+_citation_page_first                175
+_citation_special_details
+;
+Experiment details: polymorph Ia similar structure, with one disorder
+ed bridging hydroxo and three bridgingoxo ligands, has been published
+ (IBEVUG). Citation details: is a reinterpretation of this cif. File:
+ search24.cif. 
+CENTAT: none
+LIGAND: MoO3NC5H4[3D-]
+ATOMLIG: H1#1 
+H2#1 H3#1 H4#1 C1#1 C2#1 C3#1 C4#1 C5#1 N1#1 O1#1 O2#1 O3#1 O4#1 Mo1#
+1
+;
+loop_
+_publ_author_name
+'Chuan-Peng CUI'
+'Jing-Cao DAI'
+'Wen-Xin DU'
+'Zhi-Yong FU'
+'Sheng-Min HU'
+'Li-Ming WU'
+'Xin-Tao WU'
+_cell_length_a                      7.447
+_cell_length_b                      7.46
+_cell_length_c                      11.945
+_cell_angle_alpha                   90
+_cell_angle_beta                    108.07
+_cell_angle_gamma                   90
+_cell_volume                        630.87
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'C 2'
+_symmetry_Int_Tables_number         5
+_refine_ls_R_factor_all             0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.16690 0.95180 0.70620 1.0000
+H2 H 4 0.27420 0.93200 0.90770 1.0000
+H3 H 4 0.63330 0.32980 0.90760 1.0000
+H4 H 4 0.53850 0.31180 0.70560 1.0000
+C1 C 4 0.26690 0.02440 0.74780 1.0000
+C2 C 4 0.32670 0.01560 0.86920 1.0000
+C3 C 4 0.46680 0.13300 0.93400 1.0000
+C4 C 4 0.54160 0.24690 0.86930 1.0000
+C5 C 4 0.48100 0.23850 0.74750 1.0000
+N1 N 4 0.34430 0.13000 0.68880 1.0000
+O1 O 4 0.16080 0.13200 0.32250 1.0000
+O2 O 4 0.29590 0.38020 0.50010 1.0000
+O3 O 2 0.50000 0.08630 0.50000 1.0000
+O4 O 2 0.00000 0.17630 0.50000 1.0000
+Mo1 Mo 4 0.23614 0.13080 0.47218 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_1_0 0.9302 33.67 V 4
+H1 H4 1_0_0_0 3_-1_0_0 1.4145 26.80 W 4
+H1 O2 1_0_0_0 4_0_0_1 2.6188 9.19 W 4
+H1 O1 1_0_0_0 2_0_1_1 2.7131 8.29 W 4
+H1 O1 1_0_0_0 4_0_0_1 2.7800 6.19 W 4
+H1 O4 1_0_0_0 1_0_1_0 2.9184 5.35 W 4
+H2 C2 1_0_0_0 1_0_1_0 0.9300 35.20 V 4
+H2 H3 1_0_0_0 3_-1_0_0 1.2967 34.17 W 4
+H3 C4 1_0_0_0 1_0_0_0 0.9297 35.14 V 4
+H4 C5 1_0_0_0 1_0_0_0 0.9305 33.79 V 4
+H4 O2 1_0_0_0 1_0_0_0 2.6074 9.41 W 4
+H4 O1 1_0_0_0 2_1_0_1 2.7189 8.16 W 4
+H4 O1 1_0_0_0 4_0_0_1 2.7771 6.27 W 4
+H4 O3 1_0_0_0 1_0_0_0 2.9166 5.34 W 4
+C1 N1 1_0_0_0 1_0_0_0 1.3044 29.29 V 4
+C1 C2 1_0_0_0 1_0_0_0 1.3802 28.56 V 4
+C2 C3 1_0_0_0 1_0_0_0 1.3978 28.56 V 4
+C3 C4 1_0_0_0 1_0_0_0 1.3772 28.77 V 4
+C3 C3 1_0_0_0 2_1_0_2 1.4990 24.52 V 2
+C4 C5 1_0_0_0 1_0_0_0 1.3846 28.58 V 4
+C5 N1 1_0_0_0 1_0_0_0 1.3192 29.16 V 4
+N1 Mo1 1_0_0_0 1_0_0_0 2.4599 9.05 V 4
+N1 O3 1_0_0_0 1_0_0_0 2.8564 6.39 W 4
+N1 O2 1_0_0_0 1_0_0_0 2.8619 4.32 W 4
+N1 O4 1_0_0_0 1_0_0_0 2.8622 6.29 W 4
+N1 O2 1_0_0_0 4_0_-1_1 2.8623 4.34 W 4
+O1 Mo1 1_0_0_0 1_0_0_0 1.6998 21.77 V 4
+O2 Mo1 1_0_0_0 1_0_0_0 1.9180 17.25 V 4
+O2 Mo1 1_0_0_0 4_0_0_1 1.9263 17.24 V 4
+O2 O3 1_0_0_0 1_0_0_0 2.6680 5.14 W 4
+O2 O4 1_0_0_0 1_0_0_0 2.6773 6.75 W 4
+O2 O4 1_0_0_0 3_0_0_0 2.6815 5.04 W 4
+O2 O3 1_0_0_0 3_-1_0_0 2.6866 6.65 W 4
+O2 O2 1_0_0_0 2_1_0_1 3.0406 4.83 W 2
+O3 Mo1 1_0_0_0 2_1_0_1 1.9175 17.33 V 4
+O3 O4 1_0_0_0 3_0_-1_0 3.0586 8.74 W 2
+O4 Mo1 1_0_0_0 1_0_0_0 1.9185 17.28 V 4
+#End of data_2-TOPOS_BALFAV01_C10H8Mo2N2O6
+
+data_3-TOPOS_BALFAV03_C20H16Mo4N4O12
+_database_code_CSD                  BALFAV03
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C20 H16 Mo4 N4 O12'
+_chemical_name_systematic
+;
+catena-(bis(\m~2~-4,4'-Bipyridine)-octakis(\m~2~-oxo)-tetraoxo-tetra-
+molybdenum). 
+;
+_chemical_formula_sum               'C5 H4 Mo1 N1 O3'
+_citation_journal_abbrev            INORG.CHEM.
+_citation_year                      2000
+_citation_journal_volume            39
+_citation_page_first                4311
+_citation_special_details
+;
+Experiment details: polymorph II. Experiment details: The study was c
+arried out at room temperature,in the range 283-303K. File: search24.
+cif. 
+CENTAT: none
+LIGAND: MoO3NC5H4[3D-]
+ATOMLIG: H1#1 H2#1 H3#1 
+H4#1 H5#1 H6#1 H7#1 H8#1 C1#1 C2#1 C3#1 C4#1 C5#1 C6#1 C7#1 C8#1 C9#1
+ C10#1 N1#1 N2#1 O1#1 O2#1 O3#1 O4#1 O5#1 O6#1 Mo1#1 Mo2#1
+;
+loop_
+_publ_author_name
+'Hagrman P.J.'
+'La DUCA JUNIORR.L.'
+'Koo H.-J.'
+'Rarig JUNIORR.'
+'Haushalter R.C.'
+'Whangbo M.-H.'
+'Zubieta J.'
+_cell_length_a                      7.5727
+_cell_length_b                      7.3675
+_cell_length_c                      22.433
+_cell_angle_alpha                   90
+_cell_angle_beta                    90.396
+_cell_angle_gamma                   90
+_cell_volume                        1251.549
+_cell_formula_units_Z               8
+_symmetry_space_group_name_H-M      'P 21/c'
+_symmetry_Int_Tables_number         14
+_refine_ls_R_factor_all             0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.66620 0.24780 0.35820 1.0000
+H2 H 4 0.69000 0.28940 0.46170 1.0000
+H3 H 4 0.29340 0.66360 0.44980 1.0000
+H4 H 4 0.28300 0.61550 0.34650 1.0000
+H5 H 4 0.16030 0.24400 0.14250 1.0000
+H6 H 4 0.18470 0.28870 0.03930 1.0000
+H7 H 4 0.79700 0.66840 0.04950 1.0000
+H8 H 4 0.78590 0.61990 0.15240 1.0000
+C1 C 4 0.59000 0.33700 0.37740 1.0000
+C2 C 4 0.60400 0.35900 0.43870 1.0000
+C3 C 4 0.49500 0.48500 0.46630 1.0000
+C4 C 4 0.37400 0.57800 0.43180 1.0000
+C5 C 4 0.36900 0.54800 0.37080 1.0000
+C6 C 4 0.08500 0.33600 0.12300 1.0000
+C7 C 4 0.09900 0.36000 0.06200 1.0000
+C8 C 4 0.99300 0.48500 0.03360 1.0000
+C9 C 4 0.87700 0.58100 0.06770 1.0000
+C10 C 4 0.87100 0.55200 0.12880 1.0000
+N1 N 4 0.47600 0.43090 0.34350 1.0000
+N2 N 4 0.97420 0.43380 0.15650 1.0000
+O1 O 4 0.53720 0.17020 0.25200 1.0000
+O2 O 4 0.23780 0.38280 0.24680 1.0000
+O3 O 4 0.48490 0.41370 0.16090 1.0000
+O4 O 4 0.73780 0.45860 0.25360 1.0000
+O5 O 4 0.98880 0.41510 0.33870 1.0000
+O6 O 4 0.96180 0.16640 0.24850 1.0000
+Mo1 Mo 4 0.46750 0.40320 0.23632 1.0000
+Mo2 Mo 4 0.96366 0.40780 0.26356 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9766 33.38 V 4
+H1 O1 1_0_0_0 1_0_0_0 2.6315 9.94 W 4
+H1 O3 1_0_0_0 2_1_-1_0 2.7468 12.66 W 4
+H1 O5 1_0_0_0 1_0_0_0 2.7737 11.15 W 4
+H1 O4 1_0_0_0 1_0_0_0 2.8687 5.94 W 4
+H1 O6 1_0_0_0 1_0_0_0 3.3916 3.52 W 4
+H1 N2 1_0_0_0 2_2_-1_0 3.5901 2.96 W 4
+H1 C6 1_0_0_0 2_1_-1_0 3.5946 2.71 W 4
+H1 C7 1_0_0_0 2_1_-1_0 3.8060 1.61 W 4
+H2 C2 1_0_0_0 1_0_0_0 0.9740 34.52 V 4
+H2 H3 1_0_0_0 3_1_1_1 2.0184 22.92 W 4
+H2 C8 1_0_0_0 2_2_-1_0 3.2863 5.94 W 4
+H2 C8 1_0_0_0 4_0_0_0 3.4500 2.67 W 4
+H2 H7 1_0_0_0 4_0_0_0 3.9862 2.09 W 4
+H3 C4 1_0_0_0 1_0_0_0 0.9678 34.40 V 4
+H3 C8 1_0_0_0 2_1_0_0 3.2343 4.01 W 4
+H3 C7 1_0_0_0 2_0_0_0 3.3140 4.75 W 4
+H3 C9 1_0_0_0 2_1_0_0 3.3569 4.29 W 4
+H3 C6 1_0_0_0 2_0_0_0 3.5252 2.05 W 4
+H3 O3 1_0_0_0 2_1_0_0 3.5268 3.72 W 4
+H3 C10 1_0_0_0 2_1_0_0 3.5801 1.81 W 4
+H3 H6 1_0_0_0 4_0_0_0 3.9794 2.01 W 4
+H4 C5 1_0_0_0 1_0_0_0 0.9817 32.83 V 4
+H4 O1 1_0_0_0 2_1_0_0 2.6345 9.16 W 4
+H4 O5 1_0_0_0 1_-1_0_0 2.6774 11.35 W 4
+H4 O3 1_0_0_0 2_1_0_0 2.8191 8.05 W 4
+H4 O2 1_0_0_0 1_0_0_0 2.8369 6.00 W 4
+H4 O6 1_0_0_0 2_1_0_0 2.8398 7.90 W 4
+H4 N2 1_0_0_0 2_1_0_0 3.0489 6.63 W 4
+H4 C6 1_0_0_0 2_0_0_0 3.3015 2.67 W 4
+H4 O4 1_0_0_0 2_1_0_0 3.3841 2.28 W 4
+H5 C6 1_0_0_0 1_0_0_0 0.9861 33.29 V 4
+H5 O2 1_0_0_0 1_0_0_0 2.6164 10.04 W 4
+H5 O5 1_0_0_0 2_1_-1_0 2.7076 13.01 W 4
+H5 O3 1_0_0_0 1_0_0_0 2.7860 10.86 W 4
+H5 O6 1_0_0_0 1_-1_0_0 2.8793 5.89 W 4
+H5 O4 1_0_0_0 2_1_-1_0 3.2287 4.94 W 4
+H5 C1 1_0_0_0 2_1_-1_0 3.5746 2.97 W 4
+H5 N1 1_0_0_0 2_1_-1_0 3.6046 2.82 W 4
+H6 C7 1_0_0_0 1_0_0_0 0.9803 34.29 V 4
+H6 H7 1_0_0_0 3_1_1_0 2.0227 22.90 W 4
+H6 C3 1_0_0_0 2_1_-1_0 3.3030 6.21 W 4
+H6 C3 1_0_0_0 4_0_0_-1 3.5104 2.10 W 4
+H6 C2 1_0_0_0 2_1_-1_0 3.5799 2.47 W 4
+H7 C9 1_0_0_0 1_0_0_0 0.9721 34.32 V 4
+H7 C3 1_0_0_0 2_1_0_0 3.2319 4.26 W 4
+H7 C4 1_0_0_0 2_1_0_0 3.3116 4.59 W 4
+H7 C2 1_0_0_0 2_1_0_0 3.3577 4.69 W 4
+H7 O5 1_0_0_0 2_2_0_0 3.4883 3.81 W 4
+H7 C5 1_0_0_0 2_1_0_0 3.5538 1.76 W 4
+H7 C1 1_0_0_0 2_1_0_0 3.5899 1.67 W 4
+H8 C10 1_0_0_0 1_0_0_0 0.9750 32.93 V 4
+H8 O4 1_0_0_0 1_0_0_0 2.5904 10.18 W 4
+H8 O3 1_0_0_0 1_0_0_0 2.7470 11.15 W 4
+H8 O5 1_0_0_0 2_2_0_0 2.7706 8.46 W 4
+H8 O6 1_0_0_0 2_2_0_0 2.9413 4.62 W 4
+H8 O2 1_0_0_0 2_1_0_0 2.9837 6.56 W 4
+H8 N1 1_0_0_0 2_1_0_0 3.0322 6.80 W 4
+H8 O1 1_0_0_0 2_1_0_0 3.2857 2.93 W 4
+C1 N1 1_0_0_0 1_0_0_0 1.3391 27.72 V 4
+C1 C2 1_0_0_0 1_0_0_0 1.3880 27.95 V 4
+C2 C3 1_0_0_0 1_0_0_0 1.3905 27.85 V 4
+C3 C4 1_0_0_0 1_0_0_0 1.3778 28.06 V 4
+C3 C3 1_0_0_0 3_1_1_1 1.5294 26.70 V 2
+C4 C5 1_0_0_0 1_0_0_0 1.3864 27.79 V 4
+C5 N1 1_0_0_0 1_0_0_0 1.3352 27.90 V 4
+C6 N2 1_0_0_0 1_-1_0_0 1.3404 27.75 V 4
+C6 C7 1_0_0_0 1_0_0_0 1.3846 27.93 V 4
+C7 C8 1_0_0_0 1_-1_0_0 1.3752 27.83 V 4
+C8 C9 1_0_0_0 1_0_0_0 1.3661 28.07 V 4
+C8 C8 1_0_0_0 3_2_1_0 1.5280 26.59 V 2
+C9 C10 1_0_0_0 1_0_0_0 1.3883 27.74 V 4
+C10 N2 1_0_0_0 1_0_0_0 1.3223 28.00 V 4
+N1 Mo1 1_0_0_0 1_0_0_0 2.4134 9.47 V 4
+N1 O1 1_0_0_0 2_1_0_0 2.7758 5.23 W 4
+N1 O2 1_0_0_0 1_0_0_0 2.8339 4.29 W 4
+N1 O4 1_0_0_0 1_0_0_0 2.8451 5.49 W 4
+N1 O1 1_0_0_0 1_0_0_0 2.8514 3.64 W 4
+N2 Mo2 1_0_0_0 1_0_0_0 2.4112 9.56 V 4
+N2 O6 1_0_0_0 2_2_0_0 2.7747 6.43 W 4
+N2 O4 1_0_0_0 1_0_0_0 2.8349 3.60 W 4
+N2 O6 1_0_0_0 1_0_0_0 2.8552 4.12 W 4
+N2 O2 1_0_0_0 1_1_0_0 2.8589 4.38 W 4
+O1 Mo1 1_0_0_0 1_0_0_0 1.8294 19.21 V 4
+O1 Mo1 1_0_0_0 2_1_-1_0 1.9848 15.74 V 4
+O1 O4 1_0_0_0 2_1_-1_0 2.6037 8.25 W 4
+O1 O4 1_0_0_0 1_0_0_0 2.6121 6.86 W 4
+O1 O6 1_0_0_0 1_0_0_0 3.2170 3.34 W 4
+O2 Mo1 1_0_0_0 1_0_0_0 1.7633 20.53 V 4
+O2 Mo2 1_0_0_0 1_-1_0_0 2.1203 13.24 V 4
+O2 O6 1_0_0_0 2_1_0_0 2.5814 8.38 W 4
+O2 O6 1_0_0_0 1_-1_0_0 2.6292 6.22 W 4
+O2 O4 1_0_0_0 2_1_-1_0 3.1308 4.28 W 4
+O3 Mo1 1_0_0_0 1_0_0_0 1.6997 21.70 V 4
+O4 Mo2 1_0_0_0 1_0_0_0 1.7635 20.47 V 4
+O4 Mo1 1_0_0_0 1_0_0_0 2.1203 13.30 V 4
+O5 Mo2 1_0_0_0 1_0_0_0 1.6959 21.59 V 4
+O6 Mo2 1_0_0_0 1_0_0_0 1.8104 19.48 V 4
+O6 Mo2 1_0_0_0 2_2_-1_0 2.0060 15.36 V 4
+#End of data_3-TOPOS_BALFAV03_C20H16Mo4N4O12
+
+data_7-TOPOS_DUXZIG01_C4N4Ni1Zn1
+_database_code_CSD                  DUXZIG01
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C4 N4 Ni1 Zn1'
+_chemical_name_systematic
+;
+catena-(tetrakis(\m~2~-Cyano)-nickel(ii)-zinc(ii)). 
+;
+_chemical_formula_sum               'C4 N4 Ni1 Zn1'
+_citation_journal_abbrev            CRYSTENGCOMM
+_citation_year                      2011
+_citation_journal_volume            13
+_citation_page_first                5666
+_citation_special_details
+;
+Experiment details: The structure contains 40 percent void space. Fil
+e: search24.cif. 
+CENTAT: none
+LIGAND: ZnNiN4C4[3D-]
+ATOMLIG: C1#1
+ N1#1 Ni1#1 Zn1#1
+;
+loop_
+_publ_author_name
+'Xin CHEN'
+'Hu ZHOU'
+'Ying-Ying CHEN'
+'Ai-Hua YUAN'
+_cell_length_a                      7.4474
+_cell_length_b                      7.4474
+_cell_length_c                      13.05
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        723.8022
+_cell_formula_units_Z               2
+_symmetry_space_group_name_H-M      'P 42/m m c'
+_symmetry_Int_Tables_number         131
+_refine_ls_R_factor_all             0.0216
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x,-y,-z
+4 -x,y,-z
+5 -y,-x,1/2-z
+6 y,x,1/2-z
+7 y,-x,1/2+z
+8 -y,x,1/2+z
+9 -x,-y,-z
+10 x,y,-z
+11 -x,y,z
+12 x,-y,z
+13 y,x,1/2+z
+14 -y,-x,1/2+z
+15 -y,x,1/2-z
+16 y,-x,1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 8 0.32280 0.00000 0.10002 1.0000
+N1 N 8 0.21120 0.00000 0.16015 1.0000
+Ni1 Ni 2 0.50000 0.00000 0.00000 1.0000
+Zn1 Zn 2 0.00000 0.00000 0.25000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+C1 N1 1_0_0_0 1_0_0_0 1.1430 41.18 V 8
+C1 Ni1 1_0_0_0 1_0_0_0 1.8561 24.07 V 8
+C1 C1 1_0_0_0 3_0_0_0 2.6105 14.72 W 4
+C1 C1 1_0_0_0 1_0_1_0 7.4474 2.52 W 8
+N1 Zn1 1_0_0_0 1_0_0_0 1.9618 25.00 V 8
+Ni1 Ni1 1_0_0_0 1_0_-1_0 7.4474 1.86 W 2
+#End of data_7-TOPOS_DUXZIG01_C4N4Ni1Zn1
+
+data_8-TOPOS_EBEMEF_C8H6N6Ni1Zn1
+_database_code_CSD                  EBEMEF
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C8 H6 N6 Ni1 Zn1'
+_chemical_name_systematic
+;
+catena-(tetrakis(\m~2~-Cyano)-nickel(ii)-zinc(ii) acetonitrile solvat
+e). 
+;
+_chemical_formula_sum               'C8 H6 N6 Ni1 Zn1'
+_citation_journal_abbrev            CRYSTENGCOMM
+_citation_year                      2011
+_citation_journal_volume            13
+_citation_page_first                5666
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: C2H3N[0D] ZnNiN4C4[3D-]
+
+ATOMLIG: H1#1 H2#1 H3#1 C3#1 C4#1 N3#1 C1#2 C2#2 N1#2 N2#2 Ni1#2 Zn1#
+2
+;
+loop_
+_publ_author_name
+'Xin CHEN'
+'Hu ZHOU'
+'Ying-Ying CHEN'
+'Ai-Hua YUAN'
+_cell_length_a                      12.6429
+_cell_length_b                      7.9421
+_cell_length_c                      12.4142
+_cell_angle_alpha                   90
+_cell_angle_beta                    99.785
+_cell_angle_gamma                   90
+_cell_volume                        1228.391
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'C 2/c'
+_symmetry_Int_Tables_number         15
+_refine_ls_R_factor_all             0.0232
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,1/2+z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2+y,1/2-z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 8 0.55320 0.22370 0.11990 1.0000
+H2 H 8 0.67210 0.28680 0.13200 1.0000
+H3 H 8 0.64800 0.10270 0.16630 1.0000
+C1 C 8 0.84460 0.88500 0.09398 1.0000
+C2 C 8 0.15790 0.23440 0.10210 1.0000
+C3 C 8 0.62540 0.19160 0.11510 1.0000
+C4 C 8 0.63010 0.13320 0.00470 1.0000
+N1 N 8 0.90314 0.97040 0.15003 1.0000
+N2 N 8 0.09895 0.22210 0.16178 1.0000
+N3 N 8 0.63410 0.08380 0.91980 1.0000
+Ni1 Ni 4 0.75000 0.75000 0.00000 1.0000
+Zn1 Zn 4 0.00000 0.12315 0.25000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C3 1_0_0_0 1_0_0_0 0.9593 26.86 V 8
+H1 N1 1_0_0_0 5_-1_-1_0 2.7963 10.92 W 8
+H1 C1 1_0_0_0 5_-1_-1_0 2.9003 7.80 W 8
+H1 N3 1_0_0_0 3_1_0_1 3.3791 8.59 W 8
+H1 N1 1_0_0_0 6_1_-1_0 3.4300 3.89 W 8
+H1 C2 1_0_0_0 7_0_0_0 3.5113 4.21 W 8
+H1 H1 1_0_0_0 2_1_0_0 3.7041 4.48 W 4
+H2 C3 1_0_0_0 1_0_0_0 0.9603 26.83 V 8
+H2 N3 1_0_0_0 7_1_0_1 2.8300 13.92 W 8
+H2 N1 1_0_0_0 6_1_-1_0 3.3508 5.22 W 8
+H2 C1 1_0_0_0 6_1_-1_0 3.5311 2.39 W 8
+H2 N2 1_0_0_0 2_1_0_0 3.5606 3.90 W 8
+H2 C2 1_0_0_0 5_0_0_0 3.5756 4.78 W 8
+H2 N2 1_0_0_0 5_0_0_0 3.6139 3.70 W 8
+H2 C2 1_0_0_0 2_1_0_0 3.6438 1.99 W 8
+H2 C1 1_0_0_0 7_1_1_0 3.8089 3.28 W 8
+H2 H3 1_0_0_0 6_1_0_0 3.9751 2.72 W 8
+H3 C3 1_0_0_0 1_0_0_0 0.9604 26.82 V 8
+H3 C2 1_0_0_0 5_0_-1_0 3.0399 6.11 W 8
+H3 N2 1_0_0_0 5_0_-1_0 3.0843 8.02 W 8
+H3 C1 1_0_0_0 1_0_-1_0 3.2760 4.58 W 8
+H3 N1 1_0_0_0 1_0_-1_0 3.4310 3.93 W 8
+H3 N3 1_0_0_0 4_0_0_-1 3.5095 8.53 W 8
+H3 C2 1_0_0_0 2_1_0_0 3.6034 3.99 W 8
+H3 N2 1_0_0_0 2_1_0_0 3.6563 2.21 W 8
+H3 C1 1_0_0_0 6_1_-1_0 3.7144 3.02 W 8
+C1 N1 1_0_0_0 1_0_0_0 1.1476 34.54 V 8
+C1 Ni1 1_0_0_0 1_0_0_0 1.8620 20.71 V 8
+C1 C2 1_0_0_0 3_1_1_0 2.6075 9.05 W 8
+C1 C4 1_0_0_0 1_0_1_0 3.3833 3.89 W 8
+C1 N3 1_0_0_0 1_0_1_-1 3.5064 1.50 W 8
+C2 N2 1_0_0_0 1_0_0_0 1.1409 34.99 V 8
+C2 Ni1 1_0_0_0 3_1_1_0 1.8653 20.65 V 8
+C2 C4 1_0_0_0 5_-1_0_0 3.3872 3.36 W 8
+C3 C4 1_0_0_0 1_0_0_0 1.4576 19.49 V 8
+C4 N3 1_0_0_0 1_0_0_-1 1.1338 34.78 V 8
+C4 N2 1_0_0_0 7_0_0_0 3.4560 3.65 W 8
+C4 C4 1_0_0_0 7_1_0_0 3.5732 2.89 W 4
+C4 N1 1_0_0_0 7_1_1_0 3.6747 3.78 W 8
+C4 C4 1_0_0_0 3_1_0_0 3.8964 2.68 W 4
+N1 Zn1 1_0_0_0 1_1_1_0 1.9987 21.83 V 8
+N1 N3 1_0_0_0 7_1_1_1 3.6565 2.38 W 8
+N2 Zn1 1_0_0_0 1_0_0_0 1.9616 23.03 V 8
+N2 N3 1_0_0_0 7_0_0_1 3.3270 5.91 W 8
+N2 N3 1_0_0_0 8_-1_0_-1 3.5143 5.13 W 8
+N3 Ni1 1_0_0_0 1_0_-1_1 3.1098 7.96 W 8
+N3 Zn1 1_0_0_0 7_0_0_1 3.3941 4.51 W 8
+#End of data_8-TOPOS_EBEMEF_C8H6N6Ni1Zn1
+
+data_9-TOPOS_GICXIB_C6H11N1O6Zn1
+_database_code_CSD                  GICXIB
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C6 H11 N1 O6 Zn1'
+_chemical_name_systematic
+;
+catena-(Azetidinium tris(\m~2~-formato-O,O')-zinc). 
+;
+_chemical_formula_sum               'C6 H11 N1 O6 Zn1'
+_citation_journal_abbrev            'Chem.Asian J.'
+_citation_year                      2012
+_citation_journal_volume            7
+_citation_page_first                2786
+_citation_special_details
+;
+Experiment details: Pnma polymorphphase transitions at 300 K and 250 
+K. File: search24.cif. 
+CENTAT: none
+LIGAND: ZnO6C3H3[3D-] C3H8N[0D
+]
+ATOMLIG: H1#1 H2#1 C1#1 C2#1 O1#1 O2#1 O3#1 Zn1#1 H3#2 H4#2 H5#2 H
+6#2 C3#2 C4#2 C5#2 N1#2
+;
+loop_
+_publ_author_name
+'Yuji IMAI'
+'Biao ZHOU'
+'Ito Y.'
+'Fijimori H.'
+'Kobayashi A.'
+'Zhe-Ming WANG'
+'Kobayashi H.'
+_cell_length_a                      8.552
+_cell_length_b                      12.027
+_cell_length_c                      8.696
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        894.4263
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n m a'
+_symmetry_Int_Tables_number         62
+_refine_ls_R_factor_all             0.0512
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,1/2+z
+8 x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 8 0.72410 0.54960 0.77030 1.0000
+H2 H 4 0.45990 0.75000 0.43150 1.0000
+H3 H 8 0.89840 0.18820 0.64620 1.0000
+H4 H 8 0.88680 0.18380 0.39620 1.0000
+H5 H 8 0.14180 0.18340 0.37900 1.0000
+H6 H 8 0.15600 0.18370 0.63020 1.0000
+C1 C 8 0.77080 0.48733 0.72650 1.0000
+C2 C 4 0.49910 0.75000 0.53120 1.0000
+C3 C 4 0.93510 0.25000 0.43860 1.0000
+C4 C 4 0.09950 0.25000 0.42620 1.0000
+C5 C 4 0.10790 0.25000 0.58780 1.0000
+N1 N 4 0.93830 0.25000 0.60290 1.0000
+O1 O 8 0.71294 0.45073 0.60507 1.0000
+O2 O 8 0.88552 0.44652 0.79318 1.0000
+O3 O 8 0.52315 0.65816 0.59245 1.0000
+Zn1 Zn 4 0.50000 0.50000 0.50000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9303 32.25 V 8
+H1 H4 1_0_0_0 7_1_0_0 2.1687 18.55 W 8
+H1 H5 1_0_0_0 4_1_0_1 2.3644 11.99 W 8
+H1 O3 1_0_0_0 1_0_0_0 2.6552 8.33 W 8
+H1 O1 1_0_0_0 2_1_1_0 2.9605 6.86 W 8
+H1 O3 1_0_0_0 6_0_0_1 3.1096 4.04 W 8
+H1 O2 1_0_0_0 6_-1_0_1 3.1978 5.18 W 8
+H2 C2 1_0_0_0 1_0_0_0 0.9295 33.01 V 4
+H2 O1 1_0_0_0 5_1_1_1 2.8486 7.32 W 8
+H2 H3 1_0_0_0 2_1_1_-1 2.8594 4.86 W 8
+H2 H6 1_0_0_0 7_0_0_-1 2.9126 5.14 W 8
+H2 O2 1_0_0_0 2_1_1_-1 2.9632 5.07 W 8
+H2 H3 1_0_0_0 4_1_0_1 3.2246 2.88 W 8
+H2 H4 1_0_0_0 4_1_0_1 3.4161 1.74 W 8
+H3 N1 1_0_0_0 1_0_0_0 0.9004 30.05 V 8
+H3 H4 1_0_0_0 1_0_0_0 2.1769 9.32 W 8
+H3 H6 1_0_0_0 1_1_0_0 2.2080 9.26 W 8
+H3 H6 1_0_0_0 6_0_0_1 2.8427 6.21 W 8
+H3 O2 1_0_0_0 8_0_0_0 2.0667 16.50 H 8
+H3 O1 1_0_0_0 8_0_0_0 2.3314 11.40 H 8
+H4 C3 1_0_0_0 1_0_0_0 0.9698 29.07 V 8
+H4 H5 1_0_0_0 1_1_0_0 2.1859 10.50 W 8
+H4 O3 1_0_0_0 7_1_-1_-1 2.7686 7.50 W 8
+H4 O1 1_0_0_0 8_0_0_0 2.8509 6.71 W 8
+H4 H5 1_0_0_0 6_0_0_0 3.1807 3.44 W 8
+H4 C2 1_0_0_0 4_1_-1_1 3.4531 1.74 W 8
+H5 C4 1_0_0_0 1_0_0_0 0.9700 29.25 V 8
+H5 H6 1_0_0_0 1_0_0_0 2.1878 10.89 W 8
+H5 O3 1_0_0_0 7_0_-1_-1 2.8795 7.33 W 8
+H5 O3 1_0_0_0 4_1_-1_1 2.8921 7.22 W 8
+H6 C5 1_0_0_0 1_0_0_0 0.9700 29.13 V 8
+H6 C1 1_0_0_0 3_-1_0_1 2.5977 6.17 W 8
+H6 O2 1_0_0_0 3_-1_0_1 2.5980 8.27 W 8
+H6 O1 1_0_0_0 3_-1_0_1 2.8550 3.95 W 8
+H6 C2 1_0_0_0 4_1_-1_1 3.3624 1.66 W 8
+H6 O3 1_0_0_0 4_1_-1_1 3.3723 1.74 W 8
+H6 O1 1_0_0_0 4_1_-1_1 3.6459 1.70 W 8
+C1 O2 1_0_0_0 1_0_0_0 1.2408 27.84 V 8
+C1 O1 1_0_0_0 1_0_0_0 1.2465 27.89 V 8
+C2 O3 1_0_0_0 1_0_0_0 1.2434 28.72 V 8
+C3 C4 1_0_0_0 1_1_0_0 1.4101 20.39 V 4
+C3 N1 1_0_0_0 1_0_0_0 1.4290 19.84 V 4
+C4 C5 1_0_0_0 1_0_0_0 1.4071 20.55 V 4
+C5 N1 1_0_0_0 1_-1_0_0 1.4564 19.37 V 4
+O1 Zn1 1_0_0_0 1_0_0_0 2.1218 16.30 V 8
+O1 O2 1_0_0_0 6_-1_0_1 2.9370 3.79 W 8
+O1 O3 1_0_0_0 5_1_1_1 2.9567 2.60 W 8
+O2 Zn1 1_0_0_0 2_1_1_0 2.1464 15.99 V 8
+O2 O3 1_0_0_0 6_0_0_1 2.9755 3.28 W 8
+O3 Zn1 1_0_0_0 1_0_0_0 2.0746 16.93 V 8
+#End of data_9-TOPOS_GICXIB_C6H11N1O6Zn1
+
+data_15-TOPOS_PADKIP04_C6H11Mn1N1O6
+_database_code_CSD                  PADKIP04
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C6 H11 Mn1 N1 O6'
+_chemical_name_systematic
+;
+catena-[azetidinium tris(\m~2~-formato)-manganese]. 
+;
+_chemical_formula_sum               'C6 H14 Mn1 N1 O6'
+_citation_journal_abbrev            'Acta Materialia'
+_citation_year                      2013
+_citation_journal_volume            61
+_citation_page_first                4928
+_citation_special_details
+;
+Experiment details: C3,C4,C5 disordered by symmetry over two sites wi
+th occupancy 0.50.. File: search24.cif. 
+CENTAT: none
+LIGAND: MnO6C
+3H3[3D-] C3H11N[0D]*
+ATOMLIG: H1#1 H2#1 C1#1 C2#1 O1#1 O2#1 O3#1 Mn1
+#1 H3#2 H4#2 H5#2 H6#2 H7#2 H8#2 H9#2 C3#2 C4#2 C5#2 N1#2
+;
+loop_
+_publ_author_name
+'Wei LI'
+'Zhiying ZHANG'
+'Bithell E.G.'
+'Batsanov A.S.'
+'Barton P.T.'
+'Saines P.J.'
+'Prashant JAIN'
+'Howard C.J.'
+'Carpenter M.A.'
+'Cheetham A.K.'
+_cell_length_a                      8.7192
+_cell_length_b                      12.3358
+_cell_length_c                      8.889
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        956.0858
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n m a'
+_symmetry_Int_Tables_number         62
+_refine_ls_R_factor_all             0.0336
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,1/2+z
+8 x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 8 0.23180 0.45140 0.23520 1.0000
+H2 H 4 0.97150 0.25000 0.56140 1.0000
+H3 H 4 0.66520 0.75000 0.63470 1.0000
+H4 H 8 0.58600 0.63610 0.55820 1.0000
+H5 H 8 0.61940 0.85000 0.41050 1.0000
+H6 H 4 0.65330 0.75000 0.32960 1.0000
+H7 H 4 0.34730 0.75000 0.62280 1.0000
+H8 H 8 0.43110 0.85390 0.58590 1.0000
+H9 H 8 0.36500 0.68700 0.35500 1.0000
+C1 C 8 0.27360 0.51474 0.27470 1.0000
+C2 C 4 0.00310 0.25000 0.46150 1.0000
+C3 C 4 0.58970 0.75000 0.56080 1.0000
+C4 C 4 0.59250 0.75000 0.40680 1.0000
+C5 C 4 0.42680 0.75000 0.56250 1.0000
+N1 N 4 0.42300 0.75000 0.39990 1.0000
+O1 O 8 0.21619 0.55031 0.39240 1.0000
+O2 O 8 0.01907 0.33958 0.40340 1.0000
+O3 O 8 0.38290 0.55581 0.20601 1.0000
+Mn1 Mn 4 0.00000 0.50000 0.50000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9309 32.10 V 8
+H1 H8 1_0_0_0 7_0_-1_-1 2.2859 15.15 W 8
+H1 H4 1_0_0_0 5_1_1_1 2.6573 6.33 W 8
+H1 O2 1_0_0_0 1_0_0_0 2.7529 8.56 W 8
+H1 H3 1_0_0_0 4_1_-1_1 2.8838 5.19 W 8
+H1 O1 1_0_0_0 2_0_1_-1 3.0808 5.13 W 8
+H1 O2 1_0_0_0 6_0_0_0 3.1136 5.38 W 8
+H1 O3 1_0_0_0 6_-1_0_0 3.3446 2.88 W 8
+H2 C2 1_0_0_0 1_1_0_0 0.9298 32.66 V 4
+H2 H6 1_0_0_0 2_1_1_0 2.6206 11.46 W 4
+H2 O1 1_0_0_0 5_1_1_1 2.9858 6.08 W 8
+H2 O3 1_0_0_0 2_1_1_0 3.0004 6.20 W 8
+H2 H9 1_0_0_0 2_1_1_0 3.0737 3.54 W 8
+H2 H9 1_0_0_0 5_1_1_1 3.1248 3.17 W 8
+H2 H7 1_0_0_0 4_1_-1_1 3.2261 2.87 W 4
+H2 H6 1_0_0_0 4_2_-1_1 3.4119 3.08 W 4
+H3 C3 1_0_0_0 1_0_0_0 0.9300 29.13 V 4
+H3 H7 1_0_0_0 3_0_1_1 2.6772 10.59 W 4
+H3 O2 1_0_0_0 5_1_1_1 2.9857 5.05 W 8
+H3 C2 1_0_0_0 4_1_0_1 3.0159 3.38 W 4
+H3 O2 1_0_0_0 2_0_1_0 3.0834 4.56 W 8
+H4 C3 1_0_0_0 1_0_0_0 1.4056 14.68 V 8
+H4 H5 1_0_0_0 8_0_1_0 1.3557 24.90 W 8
+H4 H8 1_0_0_0 8_0_1_0 1.3784 24.84 W 8
+H4 C1 1_0_0_0 5_1_1_1 2.6772 5.51 W 8
+H4 O1 1_0_0_0 5_1_1_1 2.9078 5.16 W 8
+H4 H8 1_0_0_0 4_1_-1_1 3.7123 1.57 W 8
+H5 C4 1_0_0_0 1_0_0_0 1.2561 17.62 V 8
+H5 H6 1_0_0_0 1_0_0_0 1.4582 15.62 W 8
+H5 C3 1_0_0_0 1_0_0_0 1.8368 1.88 W 8
+H5 H9 1_0_0_0 8_0_1_0 2.3177 6.32 W 8
+H5 C1 1_0_0_0 3_0_1_0 2.7022 5.79 W 8
+H5 O3 1_0_0_0 3_0_1_0 2.7751 6.87 W 8
+H5 O3 1_0_0_0 8_0_1_0 2.9843 5.78 W 8
+H5 O2 1_0_0_0 4_1_0_1 3.5623 1.69 W 8
+H6 C4 1_0_0_0 1_0_0_0 0.8671 27.77 V 4
+H6 H9 1_0_0_0 6_0_0_0 2.5892 8.45 W 8
+H6 O1 1_0_0_0 6_0_0_0 3.2036 1.56 W 8
+H7 C5 1_0_0_0 1_0_0_0 0.8762 28.16 V 4
+H7 H8 1_0_0_0 8_0_1_0 1.5114 13.79 W 8
+H7 O2 1_0_0_0 2_0_1_0 2.9665 4.10 W 8
+H7 C2 1_0_0_0 4_0_0_1 3.1458 3.87 W 4
+H8 C5 1_0_0_0 1_0_0_0 1.2990 17.18 V 8
+H8 H9 1_0_0_0 8_0_1_0 2.1907 7.92 W 8
+H8 O1 1_0_0_0 8_0_1_0 2.8046 6.78 W 8
+H8 O2 1_0_0_0 7_0_0_0 2.8610 5.61 W 8
+H9 N1 1_0_0_0 1_0_0_0 1.0095 27.50 V 8
+H9 C1 1_0_0_0 1_0_0_0 2.3791 1.64 W 8
+H9 O3 1_0_0_0 1_0_0_0 2.0970 14.92 H 8
+H9 O1 1_0_0_0 1_0_0_0 2.1534 13.44 H 8
+C1 O1 1_0_0_0 1_0_0_0 1.2400 27.43 V 8
+C1 O3 1_0_0_0 1_0_0_0 1.2400 27.39 V 8
+C2 O2 1_0_0_0 1_0_0_0 1.2277 28.66 V 8
+C3 C4 1_0_0_0 1_0_0_0 1.3691 17.64 V 4
+C3 C5 1_0_0_0 1_0_0_0 1.4204 17.24 V 4
+C4 N1 1_0_0_0 1_0_0_0 1.4792 18.19 V 4
+C5 N1 1_0_0_0 1_0_0_0 1.4457 18.04 V 4
+O1 Mn1 1_0_0_0 1_0_0_0 2.2030 16.19 V 8
+O1 O3 1_0_0_0 6_-1_0_0 3.0356 3.77 W 8
+O1 O2 1_0_0_0 5_0_1_1 3.0574 2.73 W 8
+O2 Mn1 1_0_0_0 1_0_0_0 2.1636 16.67 V 8
+O2 O3 1_0_0_0 6_-1_0_0 3.0774 2.81 W 8
+O3 Mn1 1_0_0_0 2_0_1_-1 2.2068 16.13 V 8
+#End of data_15-TOPOS_PADKIP04_C6H11Mn1N1O6
+
+data_16-TOPOS_QINSUD_C7H15Mn1N1O6
+_database_code_CSD                  QINSUD
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C7 H15 Mn1 N1 O6'
+_chemical_name_systematic
+;
+catena-[Tetramethylammonium tris(\m~2~-formato)-manganese(ii)]. 
+;
+_chemical_formula_sum               'C7 H15 Mn1 N1 O6'
+_citation_journal_abbrev            'ACTA CRYSTALLOGR.,SECT.E:STRUCT.REP.ONLINE'
+_citation_year                      2013
+_citation_journal_volume            69
+_citation_page_first                m541
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: MnO6C3H3[3D-] C4H12N[0D]
+
+ATOMLIG: H1#1 H2#1 C1#1 C2#1 O1#1 O2#1 O3#1 Mn1#1 H3#2 H4#2 H5#2 H6#
+2 H7#2 H8#2 H9#2 C3#2 C4#2 C5#2 N1#2
+;
+loop_
+_publ_author_name
+'Han C.-Y.'
+'Liu M.-M.'
+'Dang Q.-Q.'
+_cell_length_a                      8.926
+_cell_length_b                      12.767
+_cell_length_c                      9.196
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        1047.96
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n m a'
+_symmetry_Int_Tables_number         62
+_refine_ls_R_factor_all             0.0265
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,1/2+z
+8 x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.49830 0.75000 0.57610 1.0000
+H2 H 8 0.31980 0.52340 0.19600 1.0000
+H3 H 4 0.13400 0.75000 0.67640 1.0000
+H4 H 8 0.98280 0.68860 0.69230 1.0000
+H5 H 4 0.83940 0.75000 0.34860 1.0000
+H6 H 8 0.80230 0.81140 0.49170 1.0000
+H7 H 8 0.18770 0.65480 0.45470 1.0000
+H8 H 8 0.07080 0.65410 0.32740 1.0000
+H9 H 8 0.03660 0.59360 0.47200 1.0000
+C1 C 4 0.48830 0.75000 0.47540 1.0000
+C2 C 8 0.25485 0.48251 0.25112 1.0000
+C3 C 4 0.02930 0.75000 0.65240 1.0000
+C4 C 4 0.84940 0.75000 0.45250 1.0000
+C5 C 8 0.08300 0.65471 0.43120 1.0000
+N1 N 4 0.01140 0.75000 0.49210 1.0000
+O1 O 8 0.48275 0.66330 0.41954 1.0000
+O2 O 8 0.29850 0.45825 0.37482 1.0000
+O3 O 8 0.13485 0.45849 0.19299 1.0000
+Mn1 Mn 4 0.50000 0.50000 0.50000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9303 31.89 V 4
+H1 H4 1_0_0_0 6_-1_0_1 2.2737 11.22 W 8
+H1 H3 1_0_0_0 3_0_1_1 2.5782 5.95 W 4
+H1 H6 1_0_0_0 8_0_1_0 2.9292 4.03 W 8
+H1 O3 1_0_0_0 2_0_1_0 3.1069 3.54 W 8
+H1 O2 1_0_0_0 5_1_1_1 3.2500 3.00 W 8
+H1 H3 1_0_0_0 1_0_0_0 3.3800 3.77 W 4
+H2 C2 1_0_0_0 1_0_0_0 0.9304 32.39 V 8
+H2 H9 1_0_0_0 6_0_0_0 2.6334 8.27 W 8
+H2 H6 1_0_0_0 3_-1_1_0 2.7299 8.02 W 8
+H2 H8 1_0_0_0 6_0_0_0 2.8018 5.48 W 8
+H2 H9 1_0_0_0 2_0_1_-1 2.8491 7.41 W 8
+H2 H5 1_0_0_0 3_-1_1_0 2.9272 4.93 W 8
+H2 O1 1_0_0_0 1_0_0_0 3.0873 4.52 W 8
+H2 O3 1_0_0_0 6_0_0_0 3.1044 4.81 W 8
+H2 O2 1_0_0_0 2_0_1_-1 3.1454 4.03 W 8
+H2 H7 1_0_0_0 2_0_1_-1 3.1787 1.70 W 8
+H2 H4 1_0_0_0 2_1_1_-1 3.2298 2.36 W 8
+H3 C3 1_0_0_0 1_0_0_0 0.9603 26.71 V 4
+H3 H7 1_0_0_0 8_0_1_0 2.4215 9.57 W 8
+H3 C2 1_0_0_0 7_0_0_0 3.2044 3.18 W 8
+H3 O2 1_0_0_0 7_0_0_0 3.2804 2.54 W 8
+H3 O3 1_0_0_0 7_0_0_0 3.3713 2.17 W 8
+H3 H4 1_0_0_0 3_-1_1_1 3.4301 3.15 W 8
+H3 H6 1_0_0_0 6_-1_0_1 3.4910 2.18 W 8
+H4 C3 1_0_0_0 1_1_0_0 0.9599 26.73 V 8
+H4 O3 1_0_0_0 5_1_1_1 2.3963 15.06 W 8
+H4 H9 1_0_0_0 1_1_0_0 2.4095 9.50 W 8
+H4 H6 1_0_0_0 8_0_1_0 2.4492 8.91 W 8
+H4 O2 1_0_0_0 2_1_1_0 3.1848 3.16 W 8
+H5 C4 1_0_0_0 1_0_0_0 0.9596 26.75 V 4
+H5 H8 1_0_0_0 1_1_0_0 2.4090 8.31 W 8
+H5 O1 1_0_0_0 6_0_0_0 2.9904 5.00 W 8
+H5 H8 1_0_0_0 6_0_0_0 3.1411 5.38 W 8
+H5 H7 1_0_0_0 6_0_0_0 3.3302 2.64 W 8
+H6 C4 1_0_0_0 1_0_0_0 0.9598 26.78 V 8
+H6 O2 1_0_0_0 4_1_0_1 2.4148 14.85 W 8
+H6 H9 1_0_0_0 8_1_1_0 2.4244 8.24 W 8
+H6 C1 1_0_0_0 1_0_0_0 2.9142 2.40 W 8
+H6 O1 1_0_0_0 8_0_1_0 2.9462 5.62 W 8
+H7 C5 1_0_0_0 1_0_0_0 0.9592 26.77 V 8
+H7 H7 1_0_0_0 8_0_1_0 2.4308 9.08 W 4
+H7 O1 1_0_0_0 1_0_0_0 2.6556 10.33 W 8
+H7 O2 1_0_0_0 1_0_0_0 2.7955 6.82 W 8
+H7 C2 1_0_0_0 1_0_0_0 2.9500 1.67 W 8
+H7 O3 1_0_0_0 2_0_1_0 3.0664 5.79 W 8
+H8 C5 1_0_0_0 1_0_0_0 0.9608 26.74 V 8
+H8 O1 1_0_0_0 6_-1_0_0 2.4059 14.56 W 8
+H8 H8 1_0_0_0 8_0_1_0 2.4487 8.84 W 4
+H8 C2 1_0_0_0 1_0_0_0 2.8267 3.67 W 8
+H8 O3 1_0_0_0 1_0_0_0 2.8445 5.61 W 8
+H9 C5 1_0_0_0 1_0_0_0 0.9597 26.74 V 8
+H9 H9 1_0_0_0 5_0_1_1 2.5306 12.87 W 4
+H9 O2 1_0_0_0 1_0_0_0 3.0413 3.66 W 8
+H9 O3 1_0_0_0 1_0_0_0 3.2137 2.02 W 8
+H9 O2 1_0_0_0 5_0_1_1 3.3718 1.64 W 8
+C1 O1 1_0_0_0 1_0_0_0 1.2213 28.38 V 8
+C2 O3 1_0_0_0 1_0_0_0 1.2358 28.30 V 8
+C2 O2 1_0_0_0 1_0_0_0 1.2417 28.19 V 8
+C3 N1 1_0_0_0 1_0_0_0 1.4828 18.40 V 4
+C4 N1 1_0_0_0 1_1_0_0 1.4912 18.30 V 4
+C5 N1 1_0_0_0 1_0_0_0 1.4840 18.38 V 8
+O1 Mn1 1_0_0_0 1_0_0_0 2.2176 16.32 V 8
+O1 O2 1_0_0_0 1_0_0_0 3.1188 1.59 W 8
+O1 O3 1_0_0_0 6_0_0_0 3.1227 2.48 W 8
+O2 Mn1 1_0_0_0 1_0_0_0 2.2010 16.53 V 8
+O2 O3 1_0_0_0 6_0_0_0 3.0663 2.50 W 8
+O3 Mn1 1_0_0_0 2_0_1_-1 2.2089 16.50 V 8
+#End of data_16-TOPOS_QINSUD_C7H15Mn1N1O6
+
+data_17-TOPOS_SIWPUL_C3H8Mn1N2O6
+_database_code_CSD                  SIWPUL
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C3 H8 Mn1 N2 O6'
+_chemical_name_systematic
+;
+catena-[hydrazinium tris(\m~2~-formato)-manganese]. 
+;
+_chemical_formula_sum               'C3 H8 Mn1 N2 O6'
+_citation_journal_abbrev            Inorg.Chem.Front.
+_citation_year                      2014
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: MnO6C3H3[3D-] H5N2[0D]
+A
+TOMLIG: H1#1 H2#1 H3#1 C1#1 C2#1 C3#1 O1#1 O2#1 O3#1 O4#1 O5#1 O6#1 M
+n1#1 H4#2 H5#2 H6#2 H7#2 H8#2 N1#2 N2#2
+;
+loop_
+_publ_author_name
+'Sa CHEN'
+'Ran SHANG'
+'Ke-Li HU'
+'Zhe-Ming WANG'
+'Song GAO'
+_cell_length_a                      8.9319
+_cell_length_b                      7.819
+_cell_length_c                      11.6928
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        816.6079
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n a 21'
+_symmetry_Int_Tables_number         33
+_refine_ls_R_factor_all             0.0248
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.32620 0.19960 0.11800 1.0000
+H2 H 4 0.27830 0.74240 0.14650 1.0000
+H3 H 4 0.54110 0.44940 0.35980 1.0000
+H4 H 4 0.08100 0.61060 0.31050 1.0000
+H5 H 4 0.07920 0.42410 0.28630 1.0000
+H6 H 4 0.13590 0.48780 0.39800 1.0000
+H7 H 4 0.89870 0.58970 0.42890 1.0000
+H8 H 4 0.91300 0.40050 0.43540 1.0000
+C1 C 4 0.26450 0.27940 0.15720 1.0000
+C2 C 4 0.31780 0.79290 0.07906 1.0000
+C3 C 4 0.53900 0.57090 0.36120 1.0000
+N1 N 4 0.06740 0.50502 0.34150 1.0000
+N2 N 4 0.91790 0.49320 0.38880 1.0000
+O1 O 4 0.31966 0.42128 0.18221 1.0000
+O2 O 4 0.13175 0.23492 0.18051 1.0000
+O3 O 4 0.43476 0.73020 0.03895 1.0000
+O4 O 4 0.24803 0.91785 0.03713 1.0000
+O5 O 4 0.56268 0.64860 0.26863 1.0000
+O6 O 4 0.51277 0.64200 0.45494 1.0000
+Mn1 Mn 4 0.53490 0.49922 0.11104 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9503 33.13 V 4
+H1 O4 1_0_0_0 1_0_-1_0 2.4970 14.03 W 4
+H1 O6 1_0_0_0 2_1_1_-1 2.6903 10.94 W 4
+H1 O2 1_0_0_0 4_0_0_0 2.8713 7.59 W 4
+H1 H6 1_0_0_0 3_0_-1_-1 3.0781 4.88 W 4
+H1 H5 1_0_0_0 4_0_0_0 3.1488 6.83 W 4
+H1 H7 1_0_0_0 3_1_-1_-1 3.4154 2.86 W 4
+H1 N2 1_0_0_0 4_-1_0_0 3.6013 2.71 W 4
+H2 C2 1_0_0_0 1_0_0_0 0.9499 32.99 V 4
+H2 O5 1_0_0_0 4_-1_1_0 2.5446 12.49 W 4
+H2 O1 1_0_0_0 1_0_0_0 2.5720 13.13 W 4
+H2 H4 1_0_0_0 1_0_0_0 2.8009 8.84 W 4
+H2 O5 1_0_0_0 1_0_0_0 3.0048 6.76 W 4
+H2 O3 1_0_0_0 4_-1_1_0 3.3231 2.90 W 4
+H2 H4 1_0_0_0 4_0_1_0 3.5083 2.22 W 4
+H2 H7 1_0_0_0 4_-1_1_0 3.7126 2.35 W 4
+H2 N2 1_0_0_0 4_-1_1_0 3.7223 2.36 W 4
+H3 C3 1_0_0_0 1_0_0_0 0.9503 32.89 V 4
+H3 O3 1_0_0_0 2_1_1_0 2.5311 13.40 W 4
+H3 O2 1_0_0_0 4_0_0_0 2.6697 11.19 W 4
+H3 O1 1_0_0_0 1_0_0_0 2.8762 8.37 W 4
+H3 H5 1_0_0_0 4_0_0_0 3.0632 5.04 W 4
+H3 H8 1_0_0_0 4_-1_0_0 3.0944 5.43 W 4
+H3 O4 1_0_0_0 3_0_-1_0 3.3211 3.45 W 4
+H3 N2 1_0_0_0 1_0_0_0 3.3999 3.07 W 4
+H3 H8 1_0_0_0 1_0_0_0 3.4586 3.62 W 4
+H3 H6 1_0_0_0 1_0_0_0 3.6590 1.55 W 4
+H4 N1 1_0_0_0 1_0_0_0 0.9097 26.81 V 4
+H4 O6 1_0_0_0 4_-1_1_0 2.6393 5.40 W 4
+H4 H7 1_0_0_0 4_-1_1_0 3.9320 1.75 W 4
+H4 O5 1_0_0_0 4_-1_1_0 1.9523 19.99 H 4
+H5 N1 1_0_0_0 1_0_0_0 0.9100 26.89 V 4
+H5 O1 1_0_0_0 1_0_0_0 2.4687 9.50 W 4
+H5 O2 1_0_0_0 1_0_0_0 1.9846 19.45 H 4
+H6 N1 1_0_0_0 1_0_0_0 0.9105 26.66 V 4
+H6 O3 1_0_0_0 3_0_-1_0 2.6780 5.11 W 4
+H6 O6 1_0_0_0 1_0_0_0 3.6370 2.05 W 4
+H6 C3 1_0_0_0 1_0_0_0 3.6838 1.70 W 4
+H6 O4 1_0_0_0 3_0_-1_0 2.0051 20.58 H 4
+H7 N2 1_0_0_0 1_0_0_0 0.9048 30.84 V 4
+H7 C1 1_0_0_0 2_1_1_0 3.2091 4.44 W 4
+H7 O2 1_0_0_0 2_1_1_0 3.2573 4.19 W 4
+H7 C3 1_0_0_0 1_0_0_0 3.3122 3.83 W 4
+H7 O6 1_0_0_0 1_0_0_0 3.4846 3.28 W 4
+H7 O6 1_0_0_0 4_0_1_0 2.3520 15.41 H 4
+H8 N2 1_0_0_0 1_0_0_0 0.9078 30.84 V 4
+H8 C2 1_0_0_0 2_1_1_0 3.0591 4.80 W 4
+H8 O4 1_0_0_0 2_1_1_0 3.1112 4.96 W 4
+H8 C1 1_0_0_0 4_0_0_0 3.7841 2.01 W 4
+H8 O3 1_0_0_0 3_1_-1_0 2.2557 16.41 H 4
+C1 O1 1_0_0_0 1_0_0_0 1.2486 29.09 V 4
+C1 O2 1_0_0_0 1_0_0_0 1.2654 28.56 V 4
+C2 O3 1_0_0_0 1_0_0_0 1.2457 29.51 V 4
+C2 O4 1_0_0_0 1_0_0_0 1.2583 28.76 V 4
+C3 O6 1_0_0_0 1_0_0_0 1.2511 29.11 V 4
+C3 O5 1_0_0_0 1_0_0_0 1.2591 28.82 V 4
+N1 N2 1_0_0_0 1_-1_0_0 1.4483 16.87 V 4
+O1 Mn1 1_0_0_0 1_0_0_0 2.1817 15.37 V 4
+O1 O5 1_0_0_0 1_0_0_0 2.9819 2.72 W 4
+O1 O2 1_0_0_0 4_0_0_0 3.0434 2.25 W 4
+O2 Mn1 1_0_0_0 4_-1_0_0 2.1817 16.03 V 4
+O2 O6 1_0_0_0 3_0_-1_-1 3.0250 3.57 W 4
+O3 Mn1 1_0_0_0 1_0_0_0 2.1846 15.67 V 4
+O3 O5 1_0_0_0 1_0_0_0 2.9875 3.74 W 4
+O3 O4 1_0_0_0 4_0_1_0 3.0282 3.14 W 4
+O4 Mn1 1_0_0_0 4_-1_1_0 2.1889 16.11 V 4
+O4 O6 1_0_0_0 3_0_0_-1 3.0695 3.91 W 4
+O5 Mn1 1_0_0_0 1_0_0_0 2.1957 15.43 V 4
+O6 Mn1 1_0_0_0 2_1_1_0 2.1753 16.05 V 4
+#End of data_17-TOPOS_SIWPUL_C3H8Mn1N2O6
+
+data_1-TOPOS_SIWQIA_C3H8N2O6Zn1
+_database_code_CSD                  SIWQIA
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C3 H8 N2 O6 Zn1'
+_chemical_name_systematic
+;
+catena-(hydrazinium tris(\m-formato)-zinc). 
+;
+_chemical_formula_sum               'C3 H8 N2 O6 Zn1'
+_citation_journal_abbrev            Inorg.Chem.Front.
+_citation_year                      2014
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: ZnO6C3H3[3D-] H5N2[0D]
+A
+TOMLIG: H1#1 H2#1 H3#1 C1#1 C2#1 C3#1 O1#1 O2#1 O3#1 O4#1 O5#1 O6#1 Z
+n1#1 H4#2 H5#2 H6#2 H7#2 H8#2 N1#2 N2#2
+;
+loop_
+_publ_author_name
+'Sa CHEN'
+'Ran SHANG'
+'Ke-Li HU'
+'Zhe-Ming WANG'
+'Song GAO'
+_cell_length_a                      8.664
+_cell_length_b                      7.7157
+_cell_length_c                      11.4824
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        767.5849
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n a 21'
+_symmetry_Int_Tables_number         33
+_refine_ls_R_factor_all             0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 1/2-x,1/2+y,1/2+z
+4 1/2+x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.32400 0.19730 0.11180 1.0000
+H2 H 4 0.27130 0.73950 0.15090 1.0000
+H3 H 4 0.52800 0.44000 0.36080 1.0000
+H4 H 4 0.07750 0.61380 0.31270 1.0000
+H5 H 4 0.07270 0.42560 0.28550 1.0000
+H6 H 4 0.13490 0.48570 0.39920 1.0000
+H7 H 4 0.89100 0.59220 0.43440 1.0000
+H8 H 4 0.90600 0.40070 0.44030 1.0000
+C1 C 4 0.26020 0.27670 0.15280 1.0000
+C2 C 4 0.31210 0.79030 0.08217 1.0000
+C3 C 4 0.53160 0.56310 0.36210 1.0000
+N1 N 4 0.06300 0.50600 0.34300 1.0000
+N2 N 4 0.91040 0.49480 0.39320 1.0000
+O1 O 4 0.31500 0.42140 0.17771 1.0000
+O2 O 4 0.12531 0.22940 0.17872 1.0000
+O3 O 4 0.43218 0.72600 0.04046 1.0000
+O4 O 4 0.24116 0.91800 0.03946 1.0000
+O5 O 4 0.55590 0.64300 0.26621 1.0000
+O6 O 4 0.51240 0.63750 0.45649 1.0000
+Zn1 Zn 4 0.52973 0.49988 0.11117 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9500 32.96 V 4
+H1 O4 1_0_0_0 1_0_-1_0 2.4185 14.26 W 4
+H1 O6 1_0_0_0 2_1_1_-1 2.6104 10.92 W 4
+H1 O2 1_0_0_0 4_0_0_0 2.7794 7.81 W 4
+H1 H6 1_0_0_0 3_0_-1_-1 2.9583 5.59 W 4
+H1 H5 1_0_0_0 4_0_0_0 3.0855 7.05 W 4
+H1 H7 1_0_0_0 3_1_-1_-1 3.3021 3.11 W 4
+H1 N2 1_0_0_0 4_-1_0_0 3.6328 1.97 W 4
+H2 C2 1_0_0_0 1_0_0_0 0.9494 32.88 V 4
+H2 O5 1_0_0_0 4_-1_1_0 2.4613 12.65 W 4
+H2 O1 1_0_0_0 1_0_0_0 2.5024 12.94 W 4
+H2 H4 1_0_0_0 1_0_0_0 2.6854 9.63 W 4
+H2 O5 1_0_0_0 1_0_0_0 2.8961 7.18 W 4
+H2 O3 1_0_0_0 4_-1_1_0 3.2112 3.02 W 4
+H2 H4 1_0_0_0 4_0_1_0 3.4309 2.28 W 4
+H2 H7 1_0_0_0 4_-1_1_0 3.6549 2.25 W 4
+H2 N2 1_0_0_0 4_-1_1_0 3.6600 2.34 W 4
+H3 C3 1_0_0_0 1_0_0_0 0.9504 32.92 V 4
+H3 O3 1_0_0_0 2_1_1_0 2.4526 13.26 W 4
+H3 O2 1_0_0_0 4_0_0_0 2.6058 11.16 W 4
+H3 O1 1_0_0_0 1_0_0_0 2.8011 8.58 W 4
+H3 H5 1_0_0_0 4_0_0_0 2.9757 5.38 W 4
+H3 H8 1_0_0_0 4_-1_0_0 2.9767 6.04 W 4
+H3 O4 1_0_0_0 3_0_-1_0 3.1105 4.24 W 4
+H3 N2 1_0_0_0 1_0_0_0 3.3606 2.66 W 4
+H3 H8 1_0_0_0 1_0_0_0 3.4133 3.32 W 4
+H3 H6 1_0_0_0 1_0_0_0 3.4523 2.26 W 4
+H4 N1 1_0_0_0 1_0_0_0 0.9103 26.80 V 4
+H4 H7 1_0_0_0 1_-1_0_0 2.1428 6.33 W 4
+H4 O6 1_0_0_0 4_-1_1_0 2.5935 6.13 W 4
+H4 H7 1_0_0_0 4_-1_1_0 3.8047 2.02 W 4
+H4 O5 1_0_0_0 4_-1_1_0 1.9599 19.28 H 4
+H5 N1 1_0_0_0 1_0_0_0 0.9098 26.89 V 4
+H5 O1 1_0_0_0 1_0_0_0 2.4372 9.82 W 4
+H5 O2 1_0_0_0 1_0_0_0 2.0007 18.66 H 4
+H6 N1 1_0_0_0 1_0_0_0 0.9105 26.66 V 4
+H6 H8 1_0_0_0 1_-1_0_0 2.1415 6.21 W 4
+H6 O3 1_0_0_0 3_0_-1_0 2.6427 5.52 W 4
+H6 C3 1_0_0_0 1_0_0_0 3.5144 2.05 W 4
+H6 O6 1_0_0_0 1_0_0_0 3.5358 1.78 W 4
+H6 O4 1_0_0_0 3_0_-1_0 2.0049 19.71 H 4
+H7 N2 1_0_0_0 1_0_0_0 0.9038 30.80 V 4
+H7 C1 1_0_0_0 2_1_1_0 3.0047 5.01 W 4
+H7 O2 1_0_0_0 2_1_1_0 3.1281 3.92 W 4
+H7 C3 1_0_0_0 1_0_0_0 3.2304 3.51 W 4
+H7 O6 1_0_0_0 1_0_0_0 3.3085 4.04 W 4
+H7 O6 1_0_0_0 4_0_1_0 2.3495 14.67 H 4
+H8 N2 1_0_0_0 1_0_0_0 0.9061 30.82 V 4
+H8 C2 1_0_0_0 2_1_1_0 2.8976 5.31 W 4
+H8 O4 1_0_0_0 2_1_1_0 2.9948 4.75 W 4
+H8 C1 1_0_0_0 4_0_0_0 3.7904 1.75 W 4
+H8 O3 1_0_0_0 3_1_-1_0 2.2595 15.50 H 4
+C1 O1 1_0_0_0 1_0_0_0 1.2465 28.87 V 4
+C1 O2 1_0_0_0 1_0_0_0 1.2600 28.44 V 4
+C2 O3 1_0_0_0 1_0_0_0 1.2482 29.21 V 4
+C2 O4 1_0_0_0 1_0_0_0 1.2606 28.50 V 4
+C3 O6 1_0_0_0 1_0_0_0 1.2377 29.08 V 4
+C3 O5 1_0_0_0 1_0_0_0 1.2793 28.49 V 4
+N1 N2 1_0_0_0 1_-1_0_0 1.4449 16.95 V 4
+O1 Zn1 1_0_0_0 1_0_0_0 2.1004 15.62 V 4
+O1 O5 1_0_0_0 1_0_0_0 2.8831 2.86 W 4
+O1 O2 1_0_0_0 4_0_0_0 2.9295 2.46 W 4
+O2 Zn1 1_0_0_0 4_-1_0_0 2.1016 16.26 V 4
+O2 O6 1_0_0_0 3_0_-1_-1 2.9048 3.72 W 4
+O3 Zn1 1_0_0_0 1_0_0_0 2.1018 15.77 V 4
+O3 O5 1_0_0_0 1_0_0_0 2.8772 3.88 W 4
+O3 O4 1_0_0_0 4_0_1_0 2.8984 3.36 W 4
+O4 Zn1 1_0_0_0 4_-1_1_0 2.1060 16.26 V 4
+O4 O6 1_0_0_0 3_0_0_-1 2.9329 4.04 W 4
+O5 Zn1 1_0_0_0 1_0_0_0 2.1071 15.84 V 4
+O6 Zn1 1_0_0_0 2_1_1_0 2.1003 15.97 V 4
+#End of data_1-TOPOS_SIWQIA_C3H8N2O6Zn1
+
+data_18-TOPOS_TAYZUQ_C4H9N1O6Zn1
+_database_code_CSD                  TAYZUQ
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C4 H9 N1 O6 Zn1'
+_chemical_name_systematic
+;
+catena-[Methylammonium tris(\m~2~-formato-O,O')-zinc(ii)]. 
+;
+_chemical_formula_sum               'C4 H9 Mn1 N1 O6'
+_citation_journal_abbrev            'Chem.Asian J.'
+_citation_year                      2012
+_citation_journal_volume            7
+_citation_page_first                1697
+_citation_special_details
+;
+Experiment details: The metal site is modelled as a mixed occupancy Z
+n:Mn position withoccupancies 0.96:0.04.. File: search24.cif. 
+CENTA
+T: none
+LIGAND: MnO6C3H3[3D-] CH6N[0D]
+ATOMLIG: H1#1 H2#1 C1#1 C2#1
+ O1#1 O2#1 O3#1 Mn1#1 H3#2 H4#2 H5#2 H6#2 C3#2 N1#2
+;
+loop_
+_publ_author_name
+'Ran SHANG'
+'Xuan SUN'
+'Zhe-Ming WANG'
+'Song GAO'
+_cell_length_a                      8.4239
+_cell_length_b                      11.7178
+_cell_length_c                      8.1009
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        799.6363
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P n m a'
+_symmetry_Int_Tables_number         62
+_refine_ls_R_factor_all             0.0198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,1/2-z
+4 -x,1/2+y,-z
+5 -x,-y,-z
+6 1/2+x,y,1/2-z
+7 1/2-x,1/2+y,1/2+z
+8 x,1/2-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 8 0.27530 0.47340 0.22240 1.0000
+H2 H 4 0.01260 0.25000 0.94490 1.0000
+H3 H 4 0.08100 0.75000 0.63700 1.0000
+H4 H 8 0.13000 0.68840 0.48900 1.0000
+H5 H 4 0.91400 0.75000 0.36100 1.0000
+H6 H 8 0.86900 0.68340 0.52100 1.0000
+C1 C 8 0.22060 0.52960 0.28020 1.0000
+C2 C 4 0.98680 0.25000 0.05650 1.0000
+C3 C 4 0.91800 0.75000 0.47900 1.0000
+N1 N 4 0.08470 0.75000 0.52780 1.0000
+O1 O 8 0.09807 0.56854 0.21646 1.0000
+O2 O 8 0.27614 0.56041 0.41717 1.0000
+O3 O 8 0.97067 0.34414 0.12639 1.0000
+Mn1 Mn 4 0.00000 0.50000 0.00000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 C1 1_0_0_0 1_0_0_0 0.9302 32.84 V 8
+H1 O2 1_0_0_0 2_0_1_-1 2.5414 11.28 W 8
+H1 O3 1_0_0_0 6_-1_0_0 2.5501 11.33 W 8
+H1 H4 1_0_0_0 2_0_1_-1 2.7939 7.32 W 8
+H1 H3 1_0_0_0 2_0_1_-1 2.9659 4.11 W 8
+H1 O1 1_0_0_0 6_0_0_0 2.9801 7.42 W 8
+H1 H6 1_0_0_0 5_1_1_1 3.0289 5.48 W 8
+H1 O3 1_0_0_0 1_-1_0_0 3.0797 5.39 W 8
+H1 H6 1_0_0_0 6_-1_0_0 3.2506 4.54 W 8
+H2 C2 1_0_0_0 1_-1_0_1 0.9298 33.02 V 4
+H2 H5 1_0_0_0 4_1_-1_1 2.5540 12.92 W 4
+H2 O1 1_0_0_0 5_0_1_1 2.6644 10.42 W 8
+H2 O2 1_0_0_0 2_0_1_0 2.8553 6.63 W 8
+H2 H4 1_0_0_0 2_0_1_0 3.1166 3.29 W 8
+H3 N1 1_0_0_0 1_0_0_0 0.8852 26.97 V 4
+H3 O3 1_0_0_0 4_1_0_1 2.2539 13.99 H 8
+H4 N1 1_0_0_0 1_0_0_0 0.8749 27.38 V 8
+H4 O1 1_0_0_0 1_0_0_0 2.6305 8.65 W 8
+H4 O2 1_0_0_0 1_0_0_0 2.0257 18.80 H 8
+H5 C3 1_0_0_0 1_0_0_0 0.9565 26.35 V 4
+H5 O1 1_0_0_0 8_1_1_0 2.8804 6.49 W 8
+H5 C1 1_0_0_0 3_0_1_0 3.2607 3.32 W 8
+H5 O2 1_0_0_0 3_0_1_0 3.3708 2.08 W 8
+H5 O1 1_0_0_0 6_0_0_0 3.4638 1.95 W 8
+H6 C3 1_0_0_0 1_0_0_0 0.9461 26.64 V 8
+H6 O3 1_0_0_0 2_1_1_0 3.0034 6.37 W 8
+H6 C1 1_0_0_0 5_1_1_1 3.0648 4.22 W 8
+H6 C2 1_0_0_0 2_1_1_0 3.1105 2.57 W 8
+H6 O2 1_0_0_0 5_1_1_1 3.1477 4.86 W 8
+H6 O1 1_0_0_0 6_0_0_0 3.2742 3.71 W 8
+C1 O1 1_0_0_0 1_0_0_0 1.2411 29.14 V 8
+C1 O2 1_0_0_0 1_0_0_0 1.2571 28.59 V 8
+C2 O3 1_0_0_0 1_0_0_0 1.2473 28.57 V 8
+C3 N1 1_0_0_0 1_1_0_0 1.4588 15.02 V 4
+O1 Mn1 1_0_0_0 1_0_0_0 2.0982 16.12 V 8
+O1 O2 1_0_0_0 6_-1_0_0 2.9215 3.19 W 8
+O1 O3 1_0_0_0 1_-1_0_0 2.9323 3.66 W 8
+O2 Mn1 1_0_0_0 2_0_1_0 2.1231 15.72 V 8
+O2 O3 1_0_0_0 2_1_1_0 2.9449 2.79 W 8
+O3 Mn1 1_0_0_0 1_1_0_0 2.1083 15.99 V 8
+#End of data_18-TOPOS_TAYZUQ_C4H9N1O6Zn1
+
+data_25-TOPOS_YUNJIB_C7H7B1Cu1F4N4O1
+_database_code_CSD                  YUNJIB
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C7 H7 B1 Cu1 F4 N4 O1'
+_chemical_name_systematic
+;
+catena-((\m~3~-3-(4H-1,2,4-triazol-4-yl)pyridine)-(\m~2~-hydroxo)-cop
+per(ii)tetrafluoroborate). 
+;
+_chemical_formula_sum               'B1 C7 Cu1 F4 H7 N4 O1'
+_citation_journal_abbrev            'CRYST.GROWTH DES.'
+_citation_year                      2009
+_citation_journal_volume            9
+_citation_page_first                2137
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: CuON4C7H7[3D-] BF4[0D]
+A
+TOMLIG: H1#1 H2#1 H3#1 H4#1 H5#1 H6#1 H7#1 C1#1 C2#1 C3#1 C4#1 C5#1 C
+6#1 C7#1 N1#1 N2#1 N3#1 N4#1 O1#1 Cu1#1 B1#2 F1#2 F2#2 F3#2 F4#2
+;
+loop_
+_publ_author_name
+'Ying WANG'
+'Xiao-Qing ZHAO'
+'Wei SHI'
+'Peng CHENG'
+'Dai-Zheng LIAO'
+'Shi-Ping YAN'
+_cell_length_a                      6.591
+_cell_length_b                      11.078
+_cell_length_c                      15.408
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        1125.017
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P 21 21 21'
+_symmetry_Int_Tables_number         19
+_refine_ls_R_factor_all             0.0574
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.01830 0.75410 0.87860 1.0000
+H2 H 4 0.70840 0.60490 0.18660 1.0000
+H3 H 4 0.29010 0.67050 0.20660 1.0000
+H4 H 4 0.18140 0.72170 0.35940 1.0000
+H5 H 4 0.16890 0.66780 0.50470 1.0000
+H6 H 4 0.99530 0.49460 0.54420 1.0000
+H7 H 4 0.80790 0.44850 0.30800 1.0000
+B1 B 4 0.87300 0.13400 0.78230 1.0000
+C1 C 4 0.84100 0.62670 0.17340 1.0000
+C2 C 4 0.15980 0.66220 0.18430 1.0000
+C3 C 4 0.99050 0.58980 0.32070 1.0000
+C4 C 4 0.10400 0.65640 0.37800 1.0000
+C5 C 4 0.10000 0.62300 0.46310 1.0000
+C6 C 4 0.98900 0.52030 0.48680 1.0000
+C7 C 4 0.88190 0.49260 0.34840 1.0000
+N1 N 4 0.10530 0.68810 0.10520 1.0000
+N2 N 4 0.90070 0.66690 0.09830 1.0000
+N3 N 4 0.99630 0.62110 0.22900 1.0000
+N4 N 4 0.87780 0.45830 0.43190 1.0000
+O1 O 4 0.00920 0.75200 0.93880 1.0000
+F1 F 4 0.00110 0.04820 0.81020 1.0000
+F2 F 4 0.70430 0.12050 0.82970 1.0000
+F3 F 4 0.83610 0.11300 0.69530 1.0000
+F4 F 4 0.94810 0.24770 0.79220 1.0000
+Cu1 Cu 4 0.75000 0.72601 0.99264 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 O1 1_0_0_0 1_0_0_0 0.9298 35.41 V 4
+H1 H3 1_0_0_0 3_-1_1_1 2.1641 15.24 W 4
+H1 H2 1_0_0_0 3_-1_1_1 2.2403 12.55 W 4
+H1 F4 1_0_0_0 4_1_0_1 2.6419 4.49 W 4
+H1 N2 1_0_0_0 3_-1_1_1 2.6917 4.05 W 4
+H1 N1 1_0_0_0 3_-1_1_1 2.8075 2.42 W 4
+H1 H7 1_0_0_0 2_0_1_0 3.2929 4.10 W 4
+H1 F3 1_0_0_0 4_1_0_1 2.1589 17.24 H 4
+H2 C1 1_0_0_0 1_0_0_0 0.9293 34.51 V 4
+H2 F1 1_0_0_0 3_0_0_1 2.1785 17.15 W 4
+H2 F4 1_0_0_0 2_1_1_-1 2.5254 11.67 W 4
+H2 H7 1_0_0_0 1_0_0_0 2.6327 8.75 W 4
+H2 H6 1_0_0_0 2_1_1_-1 2.7985 6.51 W 4
+H2 H3 1_0_0_0 1_0_0_0 2.8678 3.41 W 4
+H3 C2 1_0_0_0 1_0_0_0 0.9296 34.50 V 4
+H3 F4 1_0_0_0 2_1_1_-1 2.3533 13.61 W 4
+H3 H4 1_0_0_0 1_0_0_0 2.5255 10.02 W 4
+H3 F1 1_0_0_0 3_0_0_1 2.8055 9.22 W 4
+H3 H7 1_0_0_0 4_1_0_0 3.1547 4.48 W 4
+H3 F3 1_0_0_0 3_-1_0_1 3.4986 2.61 W 4
+H4 C4 1_0_0_0 1_0_0_0 0.9304 34.76 V 4
+H4 F4 1_0_0_0 2_1_1_-1 2.6740 13.37 W 4
+H4 F2 1_0_0_0 2_0_1_-1 3.1189 10.19 W 4
+H4 F1 1_0_0_0 2_0_1_-1 3.3840 5.07 W 4
+H4 H7 1_0_0_0 4_1_0_0 3.6014 3.80 W 4
+H4 H5 1_0_0_0 3_0_1_1 4.0258 1.65 W 4
+H4 H6 1_0_0_0 3_-1_1_1 4.0452 2.68 W 4
+H5 C5 1_0_0_0 1_0_0_0 0.9292 35.27 V 4
+H5 F2 1_0_0_0 4_1_0_1 2.7356 14.14 W 4
+H5 F4 1_0_0_0 4_1_0_1 3.3423 6.55 W 4
+H5 C5 1_0_0_0 3_0_1_1 3.7001 3.80 W 4
+H5 H5 1_0_0_0 3_0_1_1 3.7680 5.01 W 4
+H5 N4 1_0_0_0 1_0_0_0 5.3362 1.50 W 4
+H6 C6 1_0_0_0 1_0_0_0 0.9300 34.73 V 4
+H6 F1 1_0_0_0 4_1_0_1 2.3208 16.03 W 4
+H6 O1 1_0_0_0 4_1_-1_1 2.7004 8.38 W 4
+H6 Cu1 1_0_0_0 2_1_1_-1 3.0361 1.53 W 4
+H6 F2 1_0_0_0 4_2_0_1 3.1049 3.23 W 4
+H6 N2 1_0_0_0 2_1_1_0 3.2723 3.39 W 4
+H6 N1 1_0_0_0 2_1_1_0 3.4510 4.81 W 4
+H7 C7 1_0_0_0 1_0_0_0 0.9295 34.45 V 4
+H7 F1 1_0_0_0 3_0_0_1 2.7216 10.19 W 4
+H7 C2 1_0_0_0 4_1_-1_0 3.1810 3.92 W 4
+H7 F3 1_0_0_0 3_-1_0_1 3.1838 6.36 W 4
+H7 N1 1_0_0_0 4_1_-1_0 3.2307 3.30 W 4
+H7 F2 1_0_0_0 3_0_0_1 3.4514 5.44 W 4
+B1 F2 1_0_0_0 1_0_0_0 1.3387 24.98 V 4
+B1 F1 1_0_0_0 1_1_0_0 1.3420 24.81 V 4
+B1 F4 1_0_0_0 1_0_0_0 1.3619 25.22 V 4
+B1 F3 1_0_0_0 1_0_0_0 1.3821 24.52 V 4
+C1 N2 1_0_0_0 1_0_0_0 1.3008 28.00 V 4
+C1 N3 1_0_0_0 1_0_0_0 1.3362 27.36 V 4
+C1 F3 1_0_0_0 2_1_1_-1 3.1291 3.58 W 4
+C2 N1 1_0_0_0 1_0_0_0 1.3026 27.96 V 4
+C2 N3 1_0_0_0 1_-1_0_0 1.3576 26.80 V 4
+C2 F2 1_0_0_0 3_-1_0_1 3.1528 4.45 W 4
+C3 C7 1_0_0_0 1_0_0_0 1.3616 27.82 V 4
+C3 C4 1_0_0_0 1_1_0_0 1.3724 27.92 V 4
+C3 N3 1_0_0_0 1_0_0_0 1.4553 26.21 V 4
+C3 F3 1_0_0_0 3_0_0_1 3.2088 5.14 W 4
+C3 F4 1_0_0_0 2_1_1_-1 3.4337 3.62 W 4
+C3 F2 1_0_0_0 2_1_1_-1 3.4594 1.96 W 4
+C4 C5 1_0_0_0 1_0_0_0 1.3627 28.62 V 4
+C5 C6 1_0_0_0 1_-1_0_0 1.4011 28.09 V 4
+C6 N4 1_0_0_0 1_0_0_0 1.3132 29.01 V 4
+C6 F3 1_0_0_0 3_0_0_1 3.9098 1.69 W 4
+C7 N4 1_0_0_0 1_0_0_0 1.3418 28.60 V 4
+C7 F3 1_0_0_0 3_0_0_1 3.2839 4.52 W 4
+N1 N2 1_0_0_0 1_-1_0_0 1.3729 28.63 V 4
+N1 Cu1 1_0_0_0 3_-1_1_1 2.0218 18.34 V 4
+N1 O1 1_0_0_0 1_0_0_-1 2.7342 3.75 W 4
+N1 N4 1_0_0_0 4_1_0_0 3.0494 4.04 W 4
+N2 Cu1 1_0_0_0 1_0_0_-1 2.0164 19.02 V 4
+N2 O1 1_0_0_0 1_1_0_-1 2.7276 3.96 W 4
+N2 F3 1_0_0_0 2_1_1_-1 3.2580 3.79 W 4
+N3 F2 1_0_0_0 3_0_0_1 3.1402 5.66 W 4
+N3 F2 1_0_0_0 2_1_1_-1 3.5142 3.11 W 4
+N4 Cu1 1_0_0_0 2_1_1_-1 2.3988 14.55 V 4
+O1 Cu1 1_0_0_0 1_-1_0_0 1.9208 20.15 V 4
+O1 Cu1 1_0_0_0 3_-1_1_2 1.9220 19.86 V 4
+#End of data_25-TOPOS_YUNJIB_C7H7B1Cu1F4N4O1
+
+data_26-TOPOS_YUNJOH_C7H7Cl1Cu1N4O1
+_database_code_CSD                  YUNJOH
+_audit_creation_date                2018-03-16
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'C7 H7 Cl1 Cu1 N4 O1'
+_chemical_name_systematic
+;
+catena-((\m~3~-3-(4H-1,2,4-triazol-4-yl)pyridine)-(\m~2~-hydroxo)-cop
+per(ii)chloride). 
+;
+_chemical_formula_sum               'C7 Cl1 Cu1 H7 N4 O1'
+_citation_journal_abbrev            'CRYST.GROWTH DES.'
+_citation_year                      2009
+_citation_journal_volume            9
+_citation_page_first                2137
+_citation_special_details
+;
+File: search24.cif. 
+CENTAT: none
+LIGAND: CuON4C7H7[3D-] Cl[0D]
+AT
+OMLIG: H1#1 H2#1 H3#1 H4#1 H5#1 H6#1 H7#1 C1#1 C2#1 C3#1 C4#1 C5#1 C6
+#1 C7#1 N1#1 N2#1 N3#1 N4#1 O1#1 Cu1#1 Cl1#2
+;
+loop_
+_publ_author_name
+'Ying WANG'
+'Xiao-Qing ZHAO'
+'Wei SHI'
+'Peng CHENG'
+'Dai-Zheng LIAO'
+'Shi-Ping YAN'
+_cell_length_a                      6.592
+_cell_length_b                      9.43
+_cell_length_c                      15.185
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        943.9385
+_cell_formula_units_Z               4
+_symmetry_space_group_name_H-M      'P 21 21 21'
+_symmetry_Int_Tables_number         19
+_refine_ls_R_factor_all             0.0188
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H1 H 4 0.97420 0.32460 0.10600 1.0000
+H2 H 4 0.27880 0.36830 0.79360 1.0000
+H3 H 4 0.68820 0.31830 0.79100 1.0000
+H4 H 4 0.22250 0.50440 0.66350 1.0000
+H5 H 4 0.97370 0.46970 0.43230 1.0000
+H6 H 4 0.73200 0.31930 0.48650 1.0000
+H7 H 4 0.72940 0.26350 0.63620 1.0000
+C1 C 4 0.14600 0.35070 0.81112 1.0000
+C2 C 4 0.82230 0.32330 0.80988 1.0000
+C3 C 4 0.97710 0.38120 0.66417 1.0000
+C4 C 4 0.12100 0.46800 0.62751 1.0000
+C5 C 4 0.97610 0.44680 0.49190 1.0000
+C6 C 4 0.82950 0.35700 0.52409 1.0000
+C7 C 4 0.82770 0.32320 0.61257 1.0000
+N1 N 4 0.08970 0.31990 0.89122 1.0000
+N2 N 4 0.88280 0.30260 0.89022 1.0000
+N3 N 4 0.98310 0.35320 0.75745 1.0000
+N4 N 4 0.12120 0.50250 0.54192 1.0000
+O1 O 4 0.98397 0.27052 0.06137 1.0000
+Cl1 Cl 4 0.95030 0.40318 0.25595 1.0000
+Cu1 Cu 4 0.24089 0.27381 0.00219 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+H1 O1 1_0_0_0 1_0_0_0 0.8506 36.29 V 4
+H1 H3 1_0_0_0 3_0_0_1 2.5004 8.89 W 4
+H1 H2 1_0_0_0 3_0_0_1 2.7004 6.37 W 4
+H1 H4 1_0_0_0 2_1_1_-1 2.7129 10.48 W 4
+H1 N1 1_0_0_0 3_0_0_1 2.8780 4.44 W 4
+H1 N4 1_0_0_0 2_1_1_-1 3.2739 2.22 W 4
+H1 C6 1_0_0_0 2_1_1_-1 3.8171 3.50 W 4
+H1 C7 1_0_0_0 2_1_1_-1 3.8731 2.69 W 4
+H1 Cl1 1_0_0_0 1_0_0_0 2.3997 14.75 H 4
+H2 C1 1_0_0_0 1_0_0_0 0.9299 34.95 V 4
+H2 H4 1_0_0_0 1_0_0_0 2.3849 14.44 W 4
+H2 H3 1_0_0_0 1_0_0_0 2.7399 9.66 W 4
+H2 Cl1 1_0_0_0 2_1_1_0 2.8565 8.21 W 4
+H2 Cl1 1_0_0_0 3_-1_0_1 2.8979 9.21 W 4
+H2 H5 1_0_0_0 2_1_1_0 3.0711 7.08 W 4
+H2 H7 1_0_0_0 4_1_0_1 3.8766 1.82 W 4
+H3 C2 1_0_0_0 1_0_0_0 0.9305 34.48 V 4
+H3 H7 1_0_0_0 1_0_0_0 2.4220 13.53 W 4
+H3 Cl1 1_0_0_0 3_-1_0_1 2.7073 8.39 W 4
+H3 Cl1 1_0_0_0 2_1_1_0 2.8311 10.29 W 4
+H3 H4 1_0_0_0 4_1_-1_1 3.0961 2.91 W 4
+H3 H5 1_0_0_0 2_1_1_0 3.1208 4.57 W 4
+H4 C4 1_0_0_0 1_0_0_0 0.9296 34.49 V 4
+H4 Cl1 1_0_0_0 2_1_1_0 2.7171 10.02 W 4
+H4 N2 1_0_0_0 4_1_0_1 3.0091 3.96 W 4
+H4 C2 1_0_0_0 4_1_0_1 3.0486 4.50 W 4
+H4 H7 1_0_0_0 1_0_0_0 4.0618 3.77 W 4
+H5 C5 1_0_0_0 1_0_0_0 0.9306 33.82 V 4
+H5 Cl1 1_0_0_0 1_0_0_0 2.7547 12.23 W 4
+H5 O1 1_0_0_0 4_2_0_0 2.8520 7.67 W 4
+H5 H7 1_0_0_0 3_0_0_1 2.9596 9.74 W 4
+H5 N2 1_0_0_0 2_1_1_-1 3.2468 5.01 W 4
+H5 N1 1_0_0_0 2_1_1_-1 3.5509 1.66 W 4
+H6 C6 1_0_0_0 1_0_0_0 0.9302 34.90 V 4
+H6 C5 1_0_0_0 3_-1_0_1 3.0414 4.52 W 4
+H6 C6 1_0_0_0 3_-1_0_1 3.1352 5.03 W 4
+H6 N4 1_0_0_0 3_0_0_1 3.1509 5.47 W 4
+H6 C4 1_0_0_0 3_0_0_1 3.2974 4.38 W 4
+H6 C7 1_0_0_0 3_-1_0_1 3.3424 4.22 W 4
+H6 C3 1_0_0_0 3_-1_0_1 3.4107 3.87 W 4
+H6 N2 1_0_0_0 2_1_1_-1 3.9272 2.92 W 4
+H6 N4 1_0_0_0 1_0_0_0 4.4615 2.06 W 4
+H7 C7 1_0_0_0 1_0_0_0 0.9304 35.28 V 4
+H7 Cl1 1_0_0_0 3_-1_0_1 2.9219 9.35 W 4
+C1 N1 1_0_0_0 1_0_0_0 1.3044 28.79 V 4
+C1 N3 1_0_0_0 1_-1_0_0 1.3483 28.14 V 4
+C2 N2 1_0_0_0 1_0_0_0 1.2983 27.98 V 4
+C2 N3 1_0_0_0 1_0_0_0 1.3553 27.72 V 4
+C3 C4 1_0_0_0 1_1_0_0 1.3710 28.30 V 4
+C3 C7 1_0_0_0 1_0_0_0 1.3722 28.32 V 4
+C3 N3 1_0_0_0 1_0_0_0 1.4414 27.82 V 4
+C3 Cl1 1_0_0_0 2_1_1_0 3.7436 3.24 W 4
+C4 N4 1_0_0_0 1_0_0_0 1.3398 27.61 V 4
+C5 N4 1_0_0_0 1_1_0_0 1.3295 27.58 V 4
+C5 C6 1_0_0_0 1_0_0_0 1.3747 27.59 V 4
+C5 Cu1 1_0_0_0 4_1_0_0 3.4005 3.49 W 4
+C6 C7 1_0_0_0 1_0_0_0 1.3809 27.90 V 4
+N1 N2 1_0_0_0 1_-1_0_0 1.3737 28.32 V 4
+N1 Cu1 1_0_0_0 1_0_0_1 2.0054 19.23 V 4
+N1 O1 1_0_0_0 1_-1_0_1 2.7163 3.59 W 4
+N2 Cu1 1_0_0_0 3_0_0_1 2.0158 17.82 V 4
+N2 O1 1_0_0_0 1_0_0_1 2.7001 4.00 W 4
+N2 N4 1_0_0_0 4_1_-1_1 3.0118 2.96 W 4
+N4 Cu1 1_0_0_0 2_0_1_0 2.3749 14.33 V 4
+O1 Cu1 1_0_0_0 3_0_0_0 1.9167 18.66 V 4
+O1 Cu1 1_0_0_0 1_1_0_0 1.9175 18.70 V 4
+#End of data_26-TOPOS_YUNJOH_C7H7Cl1Cu1N4O1
+
