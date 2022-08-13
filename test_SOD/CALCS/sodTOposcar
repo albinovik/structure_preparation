@@ -1,0 +1,15 @@
+#!/bin/bash
+#cd CALCS
+for file in `find . -type f -name "*.vaspin"`
+do
+ mkdir ../$file
+ echo "### $file was created! ###"
+ cd ..
+ cd $file
+ cp ../CALCS/$file .
+ cat $file > POSCAR
+ rm $file
+ cd ..
+ cd CALCS
+done
+echo "done!!!"
